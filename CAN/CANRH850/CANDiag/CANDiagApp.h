@@ -1,0 +1,9 @@
+/////////////////////////////////////////////////////////////////////////////////
+#ifndef CAN_DIAG_APP_H
+#define CAN_DIAG_APP_H
+
+#include "Can_config.h"
+extern u32 GetSystemTick();
+
+#endif
+
